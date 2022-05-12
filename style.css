@@ -41,7 +41,7 @@ h4{
     font-family:Montserrat;
     font-size: 90px;
     position: absolute;
-    right: 8%;
+    right: 6%;
     bottom: 30%;
     z-index: 1;
     cursor:context-menu;
@@ -51,7 +51,7 @@ p1{
     font-family:Montserrat;
     font-size: 20px;
     position: absolute;
-    right: 8%;
+    right: 6%;
     bottom: 39%;
     z-index: 1;
     cursor:context-menu;
