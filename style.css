@@ -1,0 +1,89 @@
+body{
+    background-color: #101429;
+    text-align: center;
+}
+
+h1{
+    color:#101429;
+    font-family:Montserrat;
+    font-size: 90px;
+    position: absolute;
+    right: 77%;
+    bottom: 65%;
+    z-index: 1;
+    cursor:context-menu;
+}
+
+h2{
+    color:#101429;
+    font-family:Montserrat;
+    font-size: 100px;
+    position: absolute;
+    right: 81%;
+    bottom: 39%;
+    z-index: 1;
+    cursor:context-menu;
+}
+
+h3{
+    color:#101429;
+    font-family:Montserrat;
+    font-size: 85px;
+    position: absolute;
+    right: 65%;
+    bottom: 7%;
+    z-index: 1;
+    cursor:context-menu;
+}
+
+h4{
+    color:#e6292c;
+    font-family:Montserrat;
+    font-size: 90px;
+    position: absolute;
+    right: 8%;
+    bottom: 30%;
+    z-index: 1;
+    cursor:context-menu;
+}
+
+.btn-1{
+    background-color:#101429;
+    border-radius: 50px;
+    color:#e6292c;
+    font-family: Montserrat;
+    width: 175px;
+    height: 60px;
+    font-size: 25px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    transition: ease-out , 0.7s;
+    border: black;
+    position: absolute;
+    right: 77%;
+    bottom: 5%;
+    z-index: 1;
+}
+
+.btn-1:hover{
+    background-color: #ffc421;
+    color: black;
+}
+
+.parallelogram {
+	width: 1500px;
+	height: 900px;
+	transform: skew(20deg);
+	background: #e6292c;
+    position: absolute;
+    right: 65%;
+    bottom: 0.0001%;
+}
+
+.square {
+    height: 50px;
+    width: 50px;
+    background-color:white;
+}
+
